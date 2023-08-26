@@ -1,0 +1,14 @@
+header {
+  background: #fafa;
+  padding: 2em;
+}
+
+header img {
+  height: 200px;
+  width: 200px;
+}
+
+.card {
+  min-width: 15rem;
+  max-width: 18rem;
+}
